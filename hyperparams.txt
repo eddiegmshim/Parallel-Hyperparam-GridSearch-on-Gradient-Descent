@@ -1,0 +1,8 @@
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams1.csv", "alpha": [".01", ".05", ".1"], "lambda": [] , "numEpochs": ["10", "100", "500"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams2.csv", "alpha": [".01", ".02", ".03", ".04", ".05"], "lambda": [] , "numEpochs": ["500"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams3.csv", "alpha": [".05", ".1", ".15", ".2"], "lambda": [] , "numEpochs": ["500"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams4.csv", "alpha": [".05", ".1"], "lambda": [] , "numEpochs": ["400", "425", "450", "475", "500"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams5.csv", "alpha": [".001", ".005", ".01"], "lambda": [] , "numEpochs": ["1000"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams6.csv", "alpha": [".04", ".05", ".6"], "lambda": [] , "numEpochs": ["10", "100", "500"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams7.csv", "alpha": [".04", ".05", ".6"], "lambda": [] , "numEpochs": ["100", "150", "200"], "miniBatchSize": []}
+{"outpath": "C:/Users/eddie/Documents/MSCS/ParallelProgramming/eddieshim/proj3/output/outputParams8.csv", "alpha": [".05"], "lambda": [] , "numEpochs": ["100", "150", "200"], "miniBatchSize": []}
